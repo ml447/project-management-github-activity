@@ -1,3 +1,15 @@
+#### Things we understand**
+1.  Python Print[1]
+2.  Linux Directory listing[2] 
+3.  Docker Installation[1]
+#### Things we don't understand
+1. Docker Terminology[1]
+2. CMD Commands[1]
+3. GIT commands[1]
+#### Things we want to know next**
+1.  Kubernetes [1]
+2.  Cloud deployment with Kubernetes[2]
+3.  Teraform[1]
 
 # Complete the Assignment By adding your issues to these 3 lists.
 
