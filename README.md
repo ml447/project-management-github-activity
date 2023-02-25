@@ -8,8 +8,8 @@
 3. GIT commands[1]
 #### Things we want to know next**
 1.  Kubernetes [1]
-2.  Cloud deployment with Kubernetes[2]
-3.  Teraform[1]
+2.  Azure integration[1]
+3.  Full stack developer[1]
 
 # Complete the Assignment By adding your issues to these 3 lists.
 
